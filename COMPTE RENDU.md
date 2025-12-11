@@ -1,5 +1,6 @@
 # NOM:BLALET SALIMA
 # Groupe:CAC 1
+# TITRE: Prédiction de l’état de santé à partir de données physiologiques à l’aide du machine learning
 <img src="PHOTO_BLALET.jpg" style="height:464px;margin-right:432px"/>
 
 # Rapport de projet : Classification d’une maladie à partir de paramètres vitaux
