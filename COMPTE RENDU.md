@@ -1,6 +1,6 @@
 # NOM:BLALET SALIMA
 # Groupe:CAC 1
-
+<img src="PHOTO_BLALET.jpg" style="height:464px;margin-right:432px"/>
 
 # Rapport de projet : Classification d’une maladie à partir de paramètres vitaux
 
